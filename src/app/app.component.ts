@@ -52,6 +52,10 @@ export class AppComponent implements OnInit {
         sleep(1000);
       });
     });
+    console.log(
+      '%c ---- The Resulted Array ---- ',
+      'background: #222;color:#fff'
+    );
     console.log(allEpisodesData);
   }
 }
