@@ -10,4 +10,5 @@ Simply run these steps
 ![Result](https://i.imgur.com/ySev44z.png)
 
 Chracter Data in every episode
+
 ![Result](https://i.imgur.com/OWuy4uB.png)
